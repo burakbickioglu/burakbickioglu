@@ -13,11 +13,3 @@
 ### Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=burakbickioglu&&show_icons=true&theme=dark&line_height=27&v=5" alt="BurakBickioglu's GitHub Stats" /><br>
- 
-</p>
-                                                                                                                                                   
-                                                                                                                                                   
-                                                                                                                                                   
-                                                                                                                                                   ### Contact
-
-   

@@ -6,7 +6,7 @@
 
 
 ### Contact
-< &nbsp a href="https://www.linkedin.com/in/burakbickioglu/"><img title="Linkedin" src="https://i.hizliresim.com/4dhsc2e.png" width=20></a>
+<                    ><a href="https://www.linkedin.com/in/burakbickioglu/"><img title="Linkedin" src="https://i.hizliresim.com/4dhsc2e.png" width=20></a>
 [![GmBadge](https://img.shields.io/badge/-burakbickioglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:burakbickioglu@gmail.com)](mailto:burakbickioglu@gmail.com)
    
 

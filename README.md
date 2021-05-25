@@ -12,8 +12,7 @@ Software engineering student in Manisa Celal Bayar University.
 <a href="mailto:burakbickioglu@gmail.com"><img title="Linkedin" src="https://img.shields.io/badge/-burakbickioglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:burakbickioglu@gmail.com"></a>
 
 
-
+<h1>Status</h1>
  <p align="center">
- <a href="https://github.com/burakbickioglu"><img title="BurakBickioglu" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakbickioglu&layout=compact&theme=dark"></a><br>
-</p>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=burakbickioglu&&show_icons=true&theme=dark&line_height=27&v=5" alt="burakbickioglu's GitHub Stats" /><br>
+ </p>

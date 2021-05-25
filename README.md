@@ -1,7 +1,7 @@
 ### Who am i
 - Software engineering student in Manisa Celal Bayar University.
 <p align="center">
- <a href="https://github.com/burakbickioglu"><img title="BurakBickioglu" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakbickioglu&layout=compact&theme=dark"></a><br>
+ 
 </p>
 
 

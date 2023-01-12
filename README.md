@@ -1,8 +1,7 @@
 <div align="center">
 <h1>Who am i</h1>
  
-Software engineering student in Manisa Celal Bayar University.
-
+I am a Back-End Developer. I continue to improve myself in .Net technologies.
 
 
 <h1>Contact</h1>
